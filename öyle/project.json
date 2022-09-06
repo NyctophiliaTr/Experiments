@@ -1,0 +1,29 @@
+{
+	"description" : "Doctor Who - TARDIS Wallpaper with clock\n\n\nLive sample\nhttp://nicandris.atwebpages.com/tardis_clock/",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"ampm" : 
+			{
+				"text" : "24H Clock",
+				"type" : "bool",
+				"value" : "true"
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "",
+	"tags" : [ "Sci-Fi" ],
+	"title" : "",
+	"type" : "",
+	"visibility" : "",
+	"workshopid" : 911587924
+}
